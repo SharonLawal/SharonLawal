@@ -1,7 +1,7 @@
 ## Hi there 👋
 Nice to meet you!
 
-I am Sharon Lawa. I'm a web devloper.
+I am Sharon Lawal. I'm a web devloper.
 
 Looking Forward to meeting you!
 

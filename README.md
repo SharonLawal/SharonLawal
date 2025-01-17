@@ -1,21 +1,21 @@
-## Hi there 👋
-Nice to meet you!
+# Hi there, I'm Sharon Lawal! 👋
 
-I am Sharon Lawal. I'm a web devloper.
+## 🌱 About Me
+I'm a Software Engineering student and a passionate software developer. Currently, I'm learning Angular to expand my frontend skills. I also have experience with React and Redux.
 
-Looking Forward to meeting you!
+## 💻 Tech Stack
+- **Frontend:** AngularJS, React, Redux, HTML, CSS, JavaScript, TypeScript
+- **Backend:** NodeJS, Firebase
+- **Tools:** Git, Angular CLI, VS Code
 
-<!--
-**SharonLawal/SharonLawal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📚 Currently Learning
+- Advanced Angular concepts
+- Open-source project management
 
-Here are some ideas to get you started:
+## 📫 Connect with Me
+- **LinkedIn:** https://x.com/thistechbabe
+- **Twitter:** https://www.linkedin.com/in/sharon-lawal-9b7289261
+- **Email:** sharonayolawal@gmail.com 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for visiting my profile! 😊
+
